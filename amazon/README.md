@@ -14,18 +14,29 @@ bun dev
 ```
 
 #### Second, install all the node_modules under /amazon/
-<br/>
 
 ```bash
 npm i
 ```
 
 #### Thrid, check the ```pakage.json```file install all the dependencies you need
-<br />
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-
+```bash
+"dependencies": {
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.15.8",
+    "@mui/material": "^5.15.7",
+    "@reduxjs/toolkit": "^2.1.0",
+    "next": "14.1.0",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-redux": "^9.1.0"
+  }
+```
 
 
 ## Learn More
