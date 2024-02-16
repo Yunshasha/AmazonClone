@@ -1,17 +1,17 @@
 ## AmazonClone Project
-The project with ** __JS+RTK+React+NextJS__**
+The project with ** JS+RTK+React+NextJS**
 mainly implemente the Homepage, Cardpage and cart function.
 
 ### Get start
-#### first, make sure you have node.js enviroment
+#### First, make sure you have node.js enviroment
 check if you install the ```npm``` and ```nvm```
 <br />
 <br />
-#### second, go to download the ```amazon``` folder
+#### Second, go to download the ```amazon``` folder
 follow the ```README.md``` file install every package the project need.
 <br />
 <br />
-#### final, run the code in any IDE you prefer.
+#### Final, run the code in any IDE you prefer.
 
 
 
