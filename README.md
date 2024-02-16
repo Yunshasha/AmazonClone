@@ -7,7 +7,7 @@ mainly implemente the Homepage, Cartpage and Cart function.
 check if you install the ```npm``` and ```nvm```
 <br />
 <br />
-#### Second, go to download the ```amazon``` folder
+#### Second, go to download the ```/amazon/``` folder
 follow the ```README.md``` file install every package the project need.
 <br />
 <br />
