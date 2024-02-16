@@ -1,7 +1,7 @@
 
 ## Getting Started
 
-First, run the development server:
+####First, run the development server:
 
 ```bash
 npm run dev
@@ -13,13 +13,13 @@ pnpm dev
 bun dev
 ```
 
-Second, install all the node_modules under /amazon/
+####Second, install all the node_modules under /amazon/
 <br/>
 ``` bash
 npm i
 ```
 
-thrid, check the ```pakage.json```file install all the dependencies you need
+####Thrid, check the ```pakage.json```file install all the dependencies you need
 <br />
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
