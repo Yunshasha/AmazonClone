@@ -1,5 +1,5 @@
 ## AmazonClone Project
-The project with ** JS+RTK+React+NextJS**
+The project with **__JS+RTK+React+NextJS__**
 mainly implemente the Homepage, Cardpage and cart function.
 
 ### Get start
