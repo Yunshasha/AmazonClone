@@ -22,8 +22,6 @@ npm i
 #### Thrid, check the ```pakage.json```file install all the dependencies you need
 
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
 ```bash
 "dependencies": {
     "@emotion/react": "^11.11.3",
@@ -38,6 +36,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
   }
 ```
 
+<br/>
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Learn More
 
