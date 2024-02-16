@@ -1,25 +1,15 @@
 
 ## Getting Started
 
-#### First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-#### Second, install all the node_modules under /amazon/
+#### First, install all the node_modules under /amazon/
 
 ```bash
 npm i
 ```
 
-#### Thrid, check the ```pakage.json```file install all the dependencies you need
+#### Second, check the ```package.json```file install all the dependencies you need
 
 
 ```bash
@@ -35,6 +25,19 @@ npm i
     "react-redux": "^9.1.0"
   }
 ```
+
+#### Thrid, run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
+you can check the conmmand script under ```package.json```
 
 <br/>
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
