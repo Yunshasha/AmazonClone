@@ -15,7 +15,8 @@ bun dev
 
 #### Second, install all the node_modules under /amazon/
 <br/>
-``` bash
+
+```bash
 npm i
 ```
 
