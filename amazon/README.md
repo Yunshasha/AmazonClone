@@ -40,7 +40,7 @@ bun dev
 you can check the conmmand script under ```package.json```
 
 <br/>
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open[http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Learn More
 
