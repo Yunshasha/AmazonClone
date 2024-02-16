@@ -1,0 +1,124 @@
+.home{
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1500px;
+    min-height: 55vh;
+}
+.container{
+    display: flex;
+    width: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+.left{
+
+    flex: 1;
+    
+    box-shadow: 0 0 2px 2px rgb(233, 231, 231);
+    background: white;
+    margin: 20px 10px;
+    padding: 20px 15px 30px;
+}
+.right {
+    width: 280px;
+    box-shadow: 0 0 2px 2px rgb(233, 231, 231);
+    background: white;
+    margin: 20px 10px;
+    padding: 20px 15px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.leftInfo{
+    display:  flex;
+    justify-content: space-between;
+    
+    border-bottom: 1.5px solid rgb(233, 231, 231);
+    
+}
+
+.leftInfo :nth-child(1){
+    font-size: 1.8rem;
+    font-weight: 450;
+    align-self: center;
+    margin-bottom: 15px;
+}
+.leftInfo :nth-child(2){
+    font-size: 0.8rem;
+    align-self: flex-end;
+    margin-right: 10px;
+}
+.leftList{
+    padding-bottom: 20px;
+    border-bottom: 1.5px solid rgb(233, 231, 231);
+}
+.leftList p{
+    font-size: 1.4rem;
+    margin-top: 30px;
+
+}
+
+.leftPrice{
+    display: flex;
+    justify-content: flex-end;
+    padding-top: 5px;
+    padding-right: 10px ;
+    font-weight: 430;
+    font-size: 1.1rem;
+}
+
+
+
+.rightInfo{
+    font-size: 0.8rem;
+    display: flex;
+}
+
+.checked{
+    height: 1.4rem;
+}
+.rightInfo_content{
+    margin-left: 10px;
+}
+.rightInfo_content :nth-child(1){
+    color: #067D62;
+}
+.rightInfo_content :nth-child(2){
+    color: #007185;;
+}
+.rightInfo_content :nth-child(2):hover{
+    color: #e05e00;
+    cursor: pointer;
+    text-decoration: underline;
+}
+.rightInfo_content :nth-child(3){
+    color: rgb(117, 117, 117);
+}
+
+.rightOrder{
+    margin-bottom: 15px;
+}
+.rightOrder p{
+    font-size: 1.3rem;
+    
+}
+.rightOrder label{
+    font-size: 0.8rem;
+    margin-left: 5px;
+}
+.rightOrder button{
+    width: 100% !important; 
+
+    margin-top: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #FFD814;
+    border-width: 1px;
+    border-color: #FCD200;
+    border-radius: 8px;
+    cursor: pointer;
+}
