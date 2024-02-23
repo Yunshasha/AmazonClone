@@ -1,6 +1,10 @@
 ## AmazonClone Project
 The project with **__JS+RTK+React+NextJS__**
 mainly implemente the Homepage, Cartpage and Cart function.
+<br />
+![homepage](https://github.com/Yunshasha/AmazonClone/blob/main/amazon/public/cartui.png)
+<br/>
+![cartpage](https://github.com/Yunshasha/AmazonClone/blob/main/amazon/public/homepageui.png)
 
 ### Getting started
 #### First, make sure you have node.js enviroment
